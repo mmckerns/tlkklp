@@ -116,4 +116,5 @@ ax.plot(x, y, z, 'ko', linewidth=2, markersize=4)
 #ax.set_xlim3d(*xbounds)
 #ax.set_ylim3d(*ybounds)
 plt.show()
+figure.savefig('branins.png')
 
