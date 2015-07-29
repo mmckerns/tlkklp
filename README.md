@@ -62,7 +62,6 @@ All packages can be installed with `pip`::
 and optionally::
 
     >$ pip install sqlalchemy
-    >$ pip install git+https://github.com/uqfoundation/pox.git@master
     >$ pip install git+https://github.com/uqfoundation/pathos.git@master
 
 
