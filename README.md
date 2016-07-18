@@ -43,7 +43,7 @@ the following packages must be installed::
 and optionally::
 
     sqlalchemy >= 0.8.4,
-    pathos >= 0.2a1.dev0
+    pathos >= 0.2.0
 
 
 Installation
@@ -61,7 +61,7 @@ All packages can be installed with `pip`::
 and optionally::
 
     >$ pip install sqlalchemy
-    >$ pip install git+https://github.com/uqfoundation/pathos.git@master
+    >$ pip install pathos
 
 
 The `pip` installs of `numpy`, `matplotlib`, and `scipy` often fail.
