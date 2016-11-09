@@ -38,7 +38,7 @@ the following packages must be installed::
     matplotlib >= 0.91,
     dill >= 0.2.4,
     klepto >= 0.1.1,
-    mystic >= 0.2a2.dev0
+    mystic >= 0.3.0
 
 and optionally::
 
@@ -53,7 +53,7 @@ All packages can be installed with `pip`::
 
     >$ pip install setuptools
     >$ pip install numpy
-    >$ pip install git+https://github.com/uqfoundation/mystic.git@master
+    >$ pip install mystic
     >$ pip install matplotlib
     >$ pip install scipy
 
